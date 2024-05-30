@@ -1,0 +1,7 @@
+hello word
+hello silas
+hello spark
+hello scala
+hello java
+scala is the best language
+this is a spark
